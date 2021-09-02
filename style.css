@@ -1,0 +1,19 @@
+h1 {
+    font-size: 120px;
+    font-family: Arial;
+    color: lightblue;
+    text-align: center;
+}
+p {
+    font-size: 60px;
+    font-family: 'Courier New', Courier, monospace;
+    color: royalblue;
+    text-align: right;
+}
+body {
+    background-color: khaki;
+    background-image: url(img/background.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: auto;
+}
